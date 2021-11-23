@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+    <string>圖文處理</string>
+    <string>行政庶務</string>
+    <string>兒童伴讀</string>
+    <string>英語教學</string>
+    <string>硬體維修</string>
+    <string>資訊教學</string>
+    <string>緊急救援</string>
+    <string>翻譯</string>
+    <string>醫療服務</string>
+    <string>攝影/錄影</string>
+    <string>訪視陪伴</string>
+    <string>接送</string>
+    <string>網路行銷</string>
+    <string>法律諮詢</string>
+    </array>
+</plist>
